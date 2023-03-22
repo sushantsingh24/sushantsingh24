@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sushantsingh24
+- 👋 Hi, I’m Sushant Kumar
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...degree course,BTECH
+- 🌱 I’m currently learning ... Python,DSA,DBMS,Web Development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...8877579199
+- 📫 How to reach me ....https://www.linkedin.com/in/sushant-kumar-469b19236
 
 <!---
 sushantsingh24/sushantsingh24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
